@@ -1,0 +1,2 @@
+- :briefcase: I´m currenlty working as Talent Acquisition Specialist for a Data Consultancy company
+- :bar_chart: I´m currently interested in learning Data Science.
